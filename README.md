@@ -1,8 +1,8 @@
 <h1 align="center"> ATAC Primary Reference Document<h1>
-<h1 align="center">SUMMARY<br><h1>
-<h1 align="center">ARCHITECTURE<br><h1>
-<h1 align="center">ADS-B STANDARD<br><h1>
-<h2 align="left">Data Structure of ADS-B messages as per the ICAO standard<br></h2>
+<h2 align="center">SUMMARY<br><h2>
+<h2 align="center">ARCHITECTURE<br><h2>
+<h2 align="center">ADS-B STANDARD<br><h2>
+<h3 align="left">Data Structure of ADS-B messages as per the ICAO standard<br></h3>
 <p align="left">
 <b>+----------+----------+-------------+------------------------+-----------+ <br>
 | &ensp; DF (5) &nbsp;  | &nbsp; CA (3) &ensp; | &ensp; ICAO (24) | &ensp; &emsp; &emsp; ME (56) &emsp; &emsp; | &emsp; PI (24) &nbsp; | <br>
