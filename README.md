@@ -1,4 +1,4 @@
-# ATAC Primary Reference Document
+<h1 align="center"> ATAC Primary Reference Document<h1>
 <h1 align="center">SUMMARY<br><h1>
 <h1 align="center">ARCHITECTURE<br><h1>
 <h1 align="center">ADS-B STANDARD<br><h1>
